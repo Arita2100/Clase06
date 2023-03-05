@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.caja1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border: 15px solid rgb(255, 154, 1);
+    padding: 10px;
+    text-align: center;
+}
+
+.caja2 {
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 60%);
+    width: 400px;
+    height: 200px;
+    background-color: rgb(173, 166, 255);
+    margin: auto;
+    border: 15px solid rgb(25, 91, 22);
+    padding: 10px;
+    text-align: center;
+}
+
+.caja3 {
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 115%);
+    width: 490px;
+    height: 80px;
+    background-color: #ff9500;
+    margin: auto;
+    border: 15px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
